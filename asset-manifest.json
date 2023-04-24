@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nasdr/static/css/main.5d20e128.css",
+    "main.js": "/nasdr/static/js/main.1b1df692.js",
+    "static/media/background.jpeg": "/nasdr/static/media/background.228757ad02ff8d3e11a6.jpeg",
+    "static/media/pochita2.gif": "/nasdr/static/media/pochita2.118344b1ca379c180dd6.gif",
+    "static/media/horse.jpg": "/nasdr/static/media/horse.fef96ffee6c85e9ddfdf.jpg",
+    "static/media/pochita1.gif": "/nasdr/static/media/pochita1.3cff460163c3944c4292.gif",
+    "static/media/levi.png": "/nasdr/static/media/levi.b97ff13f172239a38752.png",
+    "static/media/wheel.png": "/nasdr/static/media/wheel.8f00842e5b9a34a316a3.png",
+    "static/media/arrow.png": "/nasdr/static/media/arrow.0c44b4334065e6f47023.png",
+    "static/media/fireworks.gif": "/nasdr/static/media/fireworks.f47b0d29477b789f3a9f.gif",
+    "static/media/pochita2.png": "/nasdr/static/media/pochita2.d4ed2b08b6e1640e01c4.png",
+    "index.html": "/nasdr/index.html",
+    "main.5d20e128.css.map": "/nasdr/static/css/main.5d20e128.css.map",
+    "main.1b1df692.js.map": "/nasdr/static/js/main.1b1df692.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d20e128.css",
+    "static/js/main.1b1df692.js"
+  ]
+}
